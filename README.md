@@ -24,20 +24,20 @@ This repository contains my solutions to LeetCode problems solved using **C++**.
 
 ## 📂 Repository Structure
 
-LeetCode-Solutions/
-│
-├── Arrays/
-├── Strings/
-├── Hashing/
-├── Two_Pointers/
-├── Sliding_Window/
-├── Stack/
-├── Queue/
-├── Linked_List/
-├── Trees/
-├── Graphs/
-├── Dynamic_Programming/
-└── README.md
+LeetCode-Solutions-->
+
+Arrays/
+Strings/
+Hashing/
+Two_Pointers/
+Sliding_Window/
+Stack/
+Queue/
+Linked_List/
+Trees/
+Graphs/
+Dynamic_Programming/
+README.md
 
 Each problem is organized by topic for easy navigation.
 
@@ -61,10 +61,10 @@ Examples:
 
 | Difficulty | Solved |
 | ---------- | :----: |
-| 🟢 Easy    |    1   |
+| 🟢 Easy    |    2   |
 | 🟡 Medium  |    0   |
 | 🔴 Hard    |    0   |
-| **Total**  |  **1** |
+| **Total**  |  **2** |
 
 > I'll update these numbers regularly as I solve more problems.
 
