@@ -13,16 +13,10 @@ Return the maximum profit you can achieve. If no profit is possible, return `0`.
 ## Example
 
 **Input**
-
-```text
 prices = [7,1,5,3,6,4]
-```
 
 **Output**
-
-```text
 5
-```
 
 **Explanation**
 
@@ -74,29 +68,3 @@ Instead of searching for the global minimum first, continuously update the minim
 ## Tags
 
 `Array` `Greedy` `One Pass` `Optimization`
-
----
-
-## Solution (C++)
-
-```cpp
-class Solution {
-public:
-    int maxProfit(vector<int>& prices) {
-
-        int minimum = prices[0];
-        int maximumProfit = 0;
-
-        for (int i = 1; i < prices.size(); i++) {
-
-            minimum = min(minimum, prices[i]);
-
-            int currentProfit = prices[i] - minimum;
-
-            maximumProfit = max(maximumProfit, currentProfit);
-        }
-
-        return maximumProfit;
-    }
-};
-```
