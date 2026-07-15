@@ -61,10 +61,10 @@ Examples:
 
 | Difficulty | Solved |
 | ---------- | :----: |
-| 🟢 Easy    |    6   |
-| 🟡 Medium  |    1   |
+| 🟢 Easy    |    9   |
+| 🟡 Medium  |    2   |
 | 🔴 Hard    |    0   |
-| **Total**  |  **7** |
+| **Total**  |  **11** |
 
 > I'll update these numbers regularly as I solve more problems.
 
