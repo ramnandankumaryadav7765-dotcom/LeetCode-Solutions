@@ -62,9 +62,9 @@ Examples:
 | Difficulty | Solved |
 | ---------- | :----: |
 | 🟢 Easy    |    13   |
-| 🟡 Medium  |    2   |
+| 🟡 Medium  |    3   |
 | 🔴 Hard    |    0   |
-| **Total**  |  **15** |
+| **Total**  |  **16** |
 
 > I'll update these numbers regularly as I solve more problems.
 
